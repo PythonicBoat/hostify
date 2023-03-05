@@ -1,0 +1,30 @@
+{
+  "name": "hostify",
+  "version": "1.0.0",
+  "description": "an IPFS based file hosting service",
+  "main": "\\",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PythonicBoat/hostify.git"
+  },
+  "keywords": [
+    "IPFS",
+    "web3",
+    "blockchain",
+    "MERN",
+    "API",
+    "ENS",
+    "Ethereumtx",
+    "Python",
+    "hackathon"
+  ],
+  "author": "Pythonicboat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PythonicBoat/hostify/issues"
+  },
+  "homepage": "https://github.com/PythonicBoat/hostify#readme"
+}
